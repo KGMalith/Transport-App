@@ -1,0 +1,59 @@
+.welcomePara{
+    color: #b6b6b6;
+}
+
+.loginFormControl{
+  
+  border: none !important;
+  border-bottom: 2px solid #b6b6b6 !important;
+  border-radius: 0px !important;
+  padding: 5px;
+  margin-bottom: 30px;
+  
+}
+.loginFormControl:focus{
+    box-shadow: none !important;
+    border-bottom: 2px solid black !important;
+    padding: 5px;
+}
+.contentCheckBox{
+    text-align: left;
+}
+.contentForgotPassword{
+    text-align: right;
+}
+.loginBtn{
+    width: 100%;
+    margin-top: 10%;
+    background: #1f419a !important;
+    border: none !important;
+    border-radius: 2px !important;
+}
+
+.loginBtn:hover{
+    background: #1f419a !important;
+    border: none !important;
+     border-radius: 2px !important;
+}
+
+.loginBtn:focus{
+    box-shadow:none !important;
+    border: none !important;
+     border-radius: 2px !important;
+}
+
+.registerLink{
+    margin-top: 15%;
+    text-align: left;
+}
+.linkText{
+    color: #7e808c;
+    text-decoration: none;
+}
+.linkText:hover{
+    text-decoration: none !important;
+    color: #7e808c;
+}
+.contentCheckBox label{
+    color: #7e808c;
+}

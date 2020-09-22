@@ -1,0 +1,15 @@
+
+.loginFormControl{
+  
+  border: none !important;
+  border-bottom: 2px solid #b6b6b6 !important;
+  border-radius: 0px !important;
+  padding: 5px;
+  margin-bottom: 30px;
+  
+}
+.loginFormControl:focus{
+    box-shadow: none !important;
+    border-bottom: 2px solid black !important;
+    padding: 5px;
+}
