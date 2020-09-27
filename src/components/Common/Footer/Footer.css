@@ -1,0 +1,31 @@
+.footerDiv{
+    background: #f5f9fc;
+    padding: 10px;
+    left:0;
+    bottom:0;
+    right:0;
+}
+.footerRow{
+    margin-top: 10px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.footerRow p{
+    color: #1f419a;
+    font-size: 14px;
+}
+.companyName{
+    font-size: 16px;
+    font-weight: 600;
+    color: #1f419a;
+}
+.footerLinks{
+    display: inline-flex;
+    text-align: right;
+}
+.footerLinksColumn{
+    text-align: right;
+}
+.aboutTag{
+    margin-right: 20px;
+}

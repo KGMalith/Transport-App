@@ -1,3 +1,94 @@
+
+/*--------------------------------------------------------------------------------*/
+                            /* Login Register */
+/*--------------------------------------------------------------------------------*/
+.busImage{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.formContainer{
+margin-top: 10%;
+margin-bottom: 10%;
+}
+
+.LoginForm{
+    margin-top: 40px;
+}
+
+.companyLogo{
+    width: 200px !important;
+    height: 120px !important;
+}
+
+.imageColumn{
+    text-align: center;
+}
+.imageTopic{
+    color: #b6b6b6;
+}
+
+.welcomePara{
+    color: #b6b6b6;
+}
+
+
+.loginRegisterFormControl{
+  
+  border: none !important;
+  border-bottom: 2px solid #b6b6b6 !important;
+  border-radius: 0px !important;
+  padding: 5px;
+  margin-bottom: 30px;
+  
+}
+.loginRegisterFormControl:focus{
+    box-shadow: none !important;
+    border-bottom: 2px solid black !important;
+    padding: 5px;
+}
+.contentCheckBox{
+    text-align: left;
+}
+.contentForgotPassword{
+    text-align: right;
+}
+.loginRegisterBtn{
+    width: 100%;
+    margin-top: 10%;
+    background: #1f419a !important;
+    border: none !important;
+    border-radius: 2px !important;
+}
+
+.loginRegisterBtn:hover{
+    background: #1f419a !important;
+    border: none !important;
+     border-radius: 2px !important;
+}
+
+.loginRegisterBtn:focus{
+    box-shadow:none !important;
+    border: none !important;
+     border-radius: 2px !important;
+}
+
+.loginRegisterLink{
+    margin-top: 8%;
+    text-align: left;
+}
+.linkText{
+    color: #7e808c;
+    text-decoration: none;
+}
+.linkText:hover{
+    text-decoration: none !important;
+    color: #7e808c;
+}
+.contentCheckBox label{
+    color: #7e808c;
+}
+
 .registerPara{
      color: #b6b6b6;
 }

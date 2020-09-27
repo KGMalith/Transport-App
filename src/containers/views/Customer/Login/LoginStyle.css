@@ -1,8 +1,39 @@
+
+/*--------------------------------------------------------------------------------*/
+                            /* Login Register */
+/*--------------------------------------------------------------------------------*/
+.busImage{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.formContainer{
+margin-top: 10%;
+margin-bottom: 10%;
+}
+
+.LoginForm{
+    margin-top: 40px;
+}
+
+.companyLogo{
+    width: 200px !important;
+    height: 120px !important;
+}
+
+.imageColumn{
+    text-align: center !important;
+}
+.imageTopic{
+    color: #b6b6b6;
+}
+
 .welcomePara{
     color: #b6b6b6;
 }
 
-.loginFormControl{
+
+.loginRegisterFormControl{
   
   border: none !important;
   border-bottom: 2px solid #b6b6b6 !important;
@@ -11,7 +42,7 @@
   margin-bottom: 30px;
   
 }
-.loginFormControl:focus{
+.loginRegisterFormControl:focus{
     box-shadow: none !important;
     border-bottom: 2px solid black !important;
     padding: 5px;
@@ -22,7 +53,7 @@
 .contentForgotPassword{
     text-align: right;
 }
-.loginBtn{
+.loginRegisterBtn{
     width: 100%;
     margin-top: 10%;
     background: #1f419a !important;
@@ -30,20 +61,20 @@
     border-radius: 2px !important;
 }
 
-.loginBtn:hover{
+.loginRegisterBtn:hover{
     background: #1f419a !important;
     border: none !important;
      border-radius: 2px !important;
 }
 
-.loginBtn:focus{
+.loginRegisterBtn:focus{
     box-shadow:none !important;
     border: none !important;
      border-radius: 2px !important;
 }
 
-.registerLink{
-    margin-top: 15%;
+.loginRegisterLink{
+    margin-top: 8%;
     text-align: left;
 }
 .linkText{

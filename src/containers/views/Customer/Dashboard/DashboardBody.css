@@ -1,0 +1,177 @@
+.backgroundStripe{
+    position: relative;
+    background: #1f419a;
+    height: 30vh;
+}
+.companyLogo{
+    width: 50px !important;
+    height: 50px !important;
+}
+.cardDetailsColumn{
+    text-align: center;
+    margin-top: 20px;
+}
+.userDetailsCard{
+    position: absolute;
+    top: -20%;
+    min-width: 250px !important;
+    box-shadow: 3px 2px 15px -2px grey;
+}
+.cardEmailColumn{
+     text-align: center;
+     margin-top: -10px;
+}
+.cardNumberColumn{
+    text-align: center;
+    margin-top: -2px;
+}
+.cardBtnColumn{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.bodyRow{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.statisticsCard{
+    margin-top: -80px;
+    min-width: 250px !important;
+}
+.profileImage{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.graphImage{
+    width: 200px;
+}
+
+.graphColumn{
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+}
+
+.tripsDiv{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.trips{
+    margin-top: -15px;
+    font-size: 14px;
+}
+.tripAmount{
+    font-size: 20px;
+    font-weight: 800;
+    color: #ef657f;
+}
+.customerName{
+    color: #807f87;
+}
+.customerEmail{
+    color: #1f419a;
+}
+.customerNumber{
+    color: #c0c3ca;
+}
+.logoutBtn{
+    width: 200px !important;
+    color: #7f7e86 !important;
+    border-radius: 20px !important;
+    background: none !important;
+    border: 2px solid  #1f419a !important;
+}
+.logoutBtn:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.userRecentTripsCard{
+    position: absolute;
+    top: -20%;
+    box-shadow: 3px 2px 15px -2px grey;
+    background-image: linear-gradient(to bottom, #accbee 0%, #e7f0fd 100%);
+}
+.recentTripsDriverImage{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.oneTripDetailRow{
+    background: #f4f7ff;
+    padding: 10px;
+    margin: 0px !important;
+}
+.busRoute{
+    margin-top: -15px;
+    font-size: 12px;
+    color: #777a89;
+}
+.driverDetailsColumn{
+    text-align: left;
+    display: inline-flex;
+}
+.tripDate{
+    margin-top: -15px;
+    font-size: 10px;
+    color: #a9abb8;
+}
+.tripTime{
+    font-size: 10px;
+    margin-top: 5px;
+    color: #a9abb8;
+}
+.driverDetails{
+    font-size: 14px;
+    color: #1f419a;
+    font-weight: 500;
+}
+.tripCost{
+    font-size: 12px;
+    font-weight: 800;
+    color: #4d63ff;
+}
+.tripCode{
+    font-size: 8px;
+    margin-top: -15px;
+    color: #646874;
+}
+.colPaddingRmv{
+    padding: 0px !important;
+}
+.oneTripDetailsColumn{
+    padding-right: 8px !important;
+    padding-left: 8px !important;
+    padding-bottom: 8px;
+}
+.recentTripCardHeader{
+    background: none !important;
+    border-bottom: none !important;
+    font-size: 15PX;
+    font-weight: 600;
+    color: #6e7995;
+}
+.twoTripDetailsRow{
+    margin-bottom: 10px;
+}
+.viewMoreBtnColumn{
+    text-align: right;
+    padding-right: 8px !important;
+    margin-top: 30px;
+}
+.viewAllBtn{
+    width: 200px !important;
+    color: #1f419a !important;
+    border-radius: 10px !important;
+    background: none !important;
+    border: 2px solid  #1f419a !important;
+}
+.viewAllBtn:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.leftsideCardsColumn{
+    margin-bottom: 20px;
+}

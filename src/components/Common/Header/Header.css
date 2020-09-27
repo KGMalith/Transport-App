@@ -1,0 +1,54 @@
+.navBarTop{
+    padding: 0.5rem 1rem !important;
+    background: #ffffff !important;
+}
+.navbarsTop{
+    margin-left: 50px;
+}
+.navbarsTop.active{
+    color: #1f419a !important;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #243b98;
+}
+.navbarsTop:hover{
+   color: #1f419a !important; 
+}
+
+.topUpBtn{
+    background: #1f419a !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    border-color: #1f419a !important;
+}
+.topUpBtn:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.amountTag{
+    color: #1f419a !important;
+    margin-right: 20px;
+}
+
+.navBarBottom{
+    background: #4671f3;
+    padding: 15px;
+}
+.navBottomRow{
+    margin-top: 10px;
+}
+.navBottomRow p{
+    color: #ffffff;
+    font-size: 14px;
+}
+.userName{
+    font-size: 20px;
+    font-weight: 600;
+}
+.reports{
+margin-top: 5px;
+margin-right: 10px;
+}
+.columnReport{
+    text-align: right;
+}
